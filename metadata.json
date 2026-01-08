@@ -1,0 +1,8 @@
+
+{
+  "name": "HireVision Pro",
+  "description": "A production-ready job portal with AI-powered job matching, real-time analytics, and role-based dashboards for Job Seekers, Employers, and Admins.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
